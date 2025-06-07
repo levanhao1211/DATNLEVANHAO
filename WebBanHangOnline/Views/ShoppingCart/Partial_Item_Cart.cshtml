@@ -1,0 +1,152 @@
+﻿@model IEnumerable<WebBanHangOnline.Models.ShoppingCartItem>
+
+@using WebBanHangOnline.Common
+<table class="table">
+
+    <tr class="text-center">
+        <th>STT</th>
+        <th>Ảnh sản phẩm </th>
+        <th>Tên sản phẩm </th>
+        <th>Danh mục </th>
+        <th>Kích thước </th>
+        <th>Màu </th>
+        <th>Giá </th>
+        <th style="width: 100px;">Số lượng </th>
+        <th>Thành tiền </th>
+        <th style="width:200px;">
+
+        </th>
+    </tr>
+    @if (Model != null && Model.Any())
+    {
+        var i = 0;
+        var tongtien = decimal.Zero;
+        foreach (var item in Model)
+        {
+            tongtien += item.TotalPrice;
+<tr class="text-center" data-product-id="@item.ProductId" data-size-id="@item.SizeId" data-color-id="@item.ColorId">
+
+    <td>@(i+1)</td>
+    <td><img src="@item.ProductImg" width="60" /></td>
+    <td>
+        <a href="/chi-tiet/@item.CategoryName-p@(item.ProductId)" style="color: #000000">@item.ProductName</a>
+    </td>
+    <td>@item.CategoryName</td>
+    <td>@item.SizeName</td>
+    <td>@item.ColorName</td>
+    <td>@Common.FormatNumber(item.Price, 0)</td>
+
+    <td><input class="form-control quantity-input" type="number" min="1" @*max="@item.Quantity"*@ value="@item.Quantity" id="Quantity_@item.ProductId" /></td>
+    <td>@Common.FormatNumber(item.TotalPrice, 0)</td>
+    <td class="text-right" style="padding:0px; padding-top: 12px;">
+        <a href="#" data-id="@item.ProductId " class="btn btn-sm btn-danger btnDelete">Xóa</a>
+        <a href="#" data-id="@item.ProductId" class="btn btn-sm btn-success btnUpdate">Cập nhật</a>
+    </td>
+</tr> i++;
+                }
+<tr>
+    <th colspan="8" class="text-right">Tổng: </th>
+    <th class="text-center">@Common.FormatNumber(tongtien, 0)</th>
+    <th></th>
+</tr> }
+            else
+            {
+<tr>
+    <td colspan="7">Không có sản phẩm trong giỏ hàng!</td>
+</tr>}
+</table>
+@section scripts{
+    <script>
+        //$(document).ready(function () {
+        //    // Xử lý khi nhấn nút "Cập nhật"
+        //    $(".btnUpdate").on("click", function (e) {
+        //        e.preventDefault(); // Ngăn chặn hành động mặc định
+
+        //        var row = $(this).closest('tr');
+        //        var productId = button.data("id");
+        //        var sizeId = button.closest("tr").data("size-id");
+        //        var colorId = button.closest("tr").data("color-id");
+        //        var quantity = parseInt(row.find('.quantity-input').val()); // Lấy số lượng mới nhập
+
+        //        // Kiểm tra số lượng tồn kho
+        //        $.ajax({
+        //            url: '/Products/GetQuantity', // URL của phương thức kiểm tra số lượng
+        //            type: 'GET',
+        //            data: { productId: productId, sizeId: sizeId, colorId: colorId },
+        //            success: function (maxQuantity) {
+        //                if (quantity > maxQuantity) {
+        //                    alert("Số lượng nhập vượt quá số lượng tồn kho! Số lượng tối đa là " + maxQuantity);
+        //                    row.find('.quantity-input').val(maxQuantity); // Đặt lại số lượng về tối đa
+        //                } else {
+        //                    // Gửi yêu cầu cập nhật giỏ hàng
+        //                    $.ajax({
+        //                        url: '/ShoppingCart/Partial_Item_Cart',
+        //                        type: 'POST',
+        //                        data: {
+        //                            productId: productId,
+        //                            sizeId: sizeId,
+        //                            colorId: colorId,
+        //                            quantity: quantity
+        //                        },
+        //                        success: function (response) {
+        //                            // Xử lý sau khi cập nhật thành công
+        //                            location.reload(); // Tải lại trang sau khi cập nhật
+        //                        }
+        //                    });
+        //                }
+        //            }
+        //        });
+        //    });
+        //});
+        $(document).ready(function () {
+            // Xử lý khi nhấn nút "Cập nhật"
+            $(".btnUpdate").on("click", function (e) {
+                e.preventDefault(); // Ngăn chặn hành động mặc định
+
+                var button = $(this); // Lấy button vừa được nhấn
+                var row = button.closest('tr'); // Lấy hàng hiện tại
+                var productId = row.data("product-id"); // Lấy productId từ hàng
+                var sizeId = row.data("size-id"); // Lấy sizeId từ hàng
+                var colorId = row.data("color-id"); // Lấy colorId từ hàng
+                var quantity = parseInt(row.find('.quantity-input').val()); // Lấy số lượng nhập
+
+                // Kiểm tra số lượng tồn kho
+                $.ajax({
+                    url: '/Products/GetQuantity', // URL của phương thức kiểm tra số lượng
+                    type: 'GET',
+                    data: { productId: productId, sizeId: sizeId, colorId: colorId },
+                    success: function (maxQuantity) {
+                        if (quantity > maxQuantity) {
+                            alert("Số lượng nhập vượt quá số lượng tồn kho! Số lượng tối đa là " + maxQuantity);
+                            row.find('.quantity-input').val(maxQuantity); // Đặt lại số lượng về tối đa
+                        } else {
+                            // Gửi yêu cầu cập nhật giỏ hàng
+                            $.ajax({
+                                url: '/ShoppingCart/Partial_Item_Cart', // URL để cập nhật giỏ hàng
+                                type: 'POST',
+                                data: {
+                                    productId: productId,
+                                    sizeId: sizeId,
+                                    colorId: colorId,
+                                    quantity: quantity
+                                },
+                                success: function (response) {
+                                    console.log(response)
+                                    // Xử lý sau khi cập nhật thành công, có thể cập nhật giao diện hoặc tải lại trang
+                                    alert("Giỏ hàng đã được cập nhật");
+                                    location.reload(); // Tải lại trang sau khi cập nhật
+                                },
+                                error: function () {
+                                    alert("Có lỗi xảy ra khi cập nhật giỏ hàng");
+                                }
+                            });
+                        }
+                    },
+                    error: function () {
+                        alert("Không thể kiểm tra số lượng tồn kho. Vui lòng thử lại sau.");
+                    }
+                });
+            });
+        });
+    </script>
+}

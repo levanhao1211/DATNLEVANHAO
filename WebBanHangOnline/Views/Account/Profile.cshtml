@@ -1,0 +1,81 @@
+﻿@model WebBanHangOnline.Models.CreateAccountViewModel
+@{
+    ViewBag.Title = "Profile";
+
+
+
+}
+<link type="text/css" href="~/Content/assets/styles/main_style.css" rel="stylesheet" />
+<style>
+    .product_section_container {
+        margin-top: 180px;
+    }
+.col-md-12{
+    width: 100%;
+}
+
+  
+</style>
+<div class="container product_section_container">
+    <div class="row">
+        
+            <h3>Thông tin cá nhân</h3>
+        
+    </div>
+    <hr/>
+    <div class="row">
+      
+        <div class="col-md-12">
+            @using (Html.BeginForm("Profile", "Account"))
+            {
+                @Html.ValidationSummary(false)
+                @Html.AntiForgeryToken()
+                if (!ViewData.ModelState.IsValid)
+                {
+                    <div>
+                        <h4>Có lỗi xảy ra khi cập nhật:</h4>
+                        <ul>
+                            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                            {
+                                <li>@error.ErrorMessage</li>
+                            }
+                        </ul>
+                    </div>
+                }
+                <div class=" form-group">
+                    <label for="expName">Tên tài khoản</label>
+                    <input type="text" class="form-control" name="UserName" value="@Model.UserName" />
+
+                </div>
+                <div class=" form-group">
+                    <label for="expName">Họ và tên</label>
+                    <input type="text" class="form-control" name="FullName" value="@Model.FullName" />
+
+                </div>
+                <div class=" form-group">
+                    <label for="expName">Số điện thoại</label>
+                    <input type="text" class="form-control" name="Phone" value="@Model.Phone" />
+
+                </div>
+                <div class=" form-group">
+                    <label for="expName">Email</label>
+                    <input type="text" class="form-control" name="Email" value="@Model.Email" />
+
+                </div>
+                <div class=" form-group">
+                    <label for="expName">Địa chỉ</label>
+                    <input type="text" class="form-control" name="Address" value="@Model.Address" />
+
+                </div>
+               
+                <div>
+                    <button type="submit" class="btn btn-success">Cập nhật</button>
+                </div>
+            }
+        </div>
+        
+
+
+    </div>
+</div>
+

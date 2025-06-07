@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<link rel="stylesheet" type="text/css" href="~/Content/assets/styles/contact_styles.css">
+<link rel="stylesheet" type="text/css" href="~/Content/assets/styles/contact_responsive.css">
+<div class="container contact_container">
+    <div class="row">
+        <div class="col">
+
+            <!-- Breadcrumbs -->
+
+            <div class="breadcrumbs d-flex flex-row align-items-center">
+                <ul>
+                    <li><a href="/home/index">Trang chủ</a></li>
+                    <li class="active"><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Liên hệ</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Map Container -->
+
+    <div class="row">
+        <div class="col">
+            <div id="google_map">
+                <div class="map_container">
+                    <img src="~/Uploads/_thumbs/Images/anhshop1.jpg" height="507" style="width:100%" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact Us -->
+
+    <div class="row">
+
+        <div class="col-lg-12 contact_col">
+            <div class="contact_contents">
+                <h1>Liên hệ</h1>
+                <p>Bạn có thể liên hệ với chúng tôi, gọi điện hoặc gửi email cho chúng tôi, chọn những gì phù hợp với bạn nhất.</p>
+                <div>
+                    <p>0869919554</p>
+                    <p>levanhao2182@gmail.com</p>
+                </div>
+                <div>
+                    <p></p>
+                </div>
+                <div>
+                    <p>Giờ mở cửa: 8.00-18.00 Tứ 2-Thứ 7</p>
+                    <p>Chủ nhật: Đóng cửa</p>
+                </div>
+            </div>
+
+            <!-- Follow Us -->
+
+            <div class="follow_us_contents">
+                <h1>Theo dõi </h1>
+                <ul class="social d-flex flex-row">
+                    <li><a href="https://www.facebook.com/profile.php?id=100077602451199/" style="background-color: #3a61c9"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                    <li><a href="#" style="background-color: #41a1f6"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                    <li><a href="#" style="background-color: #fb4343"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                    <li><a href="https://www.instagram.com/nguyenhuyentrang2405/" style="background-color: #8f6247"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                </ul>
+            </div>
+
+        </div>
+
+       @* <div class="col-lg-6 get_in_touch_col">
+            <div class="get_in_touch_contents">
+                <h1>Hãy liên hệ với chúng tôi!</h1>
+                <p>Điền vào mẫu dưới đây để nhận những thông tin miễn phí và ưu đãi dành riêng cho bạn.</p>
+               
+            </div>
+        </div>*@
+
+    </div>
+</div>
+@section scripts{
+    <script src="~Content/assets/js/contact_custom.js"></script>
+}
+

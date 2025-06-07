@@ -1,0 +1,41 @@
+﻿
+@{ ViewBag.Title = "Trang chủ Admin";
+                Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml"; }
+
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                @*  <h1>Advanced Form</h1>*@
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    @* <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">Advanced Form</li>*@
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+@section scripts {
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script src="~/plugins/jquery/jquery.min.js"></script>
+    <script src="~/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/dist/js/adminlte.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Hiển thị thông báo thành công hoặc lỗi từ TempData
+            var successMessage = '@TempData["SuccessMessage"]';
+
+            if (successMessage) {
+                toastr.success(successMessage, 'Thông báo');
+            }
+        });
+    </script>
+}
+
+
+

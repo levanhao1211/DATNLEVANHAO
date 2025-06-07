@@ -1,0 +1,616 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\tvh35\\onedrive\\desktop\\datn\\da15\\fashion-website-asp.net-mvc-master\\webbanhangonline\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\tvh35\\onedrive\\desktop\\datn\\da15\\fashion-website-asp.net-mvc-master\\webbanhangonline\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|c:\\users\\tvh35\\onedrive\\desktop\\datn\\da15\\fashion-website-asp.net-mvc-master\\webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\content\\templates\\send1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\content\\templates\\send1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\common\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\common\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\posts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\posts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\new\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\new\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\new\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\new\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\views\\products\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\products\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\views\\products\\partial_itemsbycateid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\products\\partial_itemsbycateid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\views\\products\\partial_productsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\products\\partial_productsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\webbanhangonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFD2BB3-F5A1-4F3C-A8B5-DA9B21F17371}|WebBanHangOnline\\WebBanHangOnline.csproj|solutionrelative:webbanhangonline\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewController.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Controllers\\NewController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\NewController.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Controllers\\NewController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Controllers\\NewController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:01:42.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Controllers\\PostController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:59:12.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "send1.html",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Content\\templates\\send1.html",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Content\\templates\\send1.html",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Content\\templates\\send1.html",
+              "RelativeToolTip": "WebBanHangOnline\\Content\\templates\\send1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-07T14:10:04.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAIwPoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:12:45.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewController.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Controllers\\NewController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\NewController.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Controllers\\NewController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\NewController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAASwDAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:46:19.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T14:32:25.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Add.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Add.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Add.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T14:32:02.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Controllers\\PostsController.cs*",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\PostsController.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:31:50.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AgIAANMAAAAAAAAAAAAAAOcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T07:59:11.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Web.config",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Web.config",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Web.config",
+              "RelativeToolTip": "WebBanHangOnline\\Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-29T11:02:26.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Common\\Common.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Common\\Common.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Common\\Common.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Common\\Common.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:08:01.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\New\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\New\\Add.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\New\\Add.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\New\\Add.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T14:50:24.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T11:41:25.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\New\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\New\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\New\\Edit.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\New\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T14:50:56.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAGkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T14:57:56.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T11:39:03.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T11:39:00.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T11:38:57.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T11:37:23.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Post\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Post\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T14:34:58.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:36:13.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T09:56:20.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T12:09:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Partial_ProductSales.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Products\\Partial_ProductSales.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Products\\Partial_ProductSales.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Products\\Partial_ProductSales.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Products\\Partial_ProductSales.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T07:36:19.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Partial_ItemsByCateId.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Products\\Partial_ItemsByCateId.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Products\\Partial_ItemsByCateId.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Products\\Partial_ItemsByCateId.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Products\\Partial_ItemsByCateId.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T07:36:05.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T07:27:51.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAwwBUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:17:10.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Products\\ProductCategory.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Products\\ProductCategory.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Products\\ProductCategory.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Products\\ProductCategory.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T07:36:33.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T09:55:06.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-30T14:20:35.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAGwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T14:12:47.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T14:06:56.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Products\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Views\\Products\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Views\\Products\\Detail.cshtml",
+              "RelativeToolTip": "WebBanHangOnline\\Views\\Products\\Detail.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T11:38:56.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:20:51.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Models\\AccountViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:04:16.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Models\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Models\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Models\\CustomerViewModel.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Models\\CustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:04:13.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Startup.cs",
+              "RelativeDocumentMoniker": "WebBanHangOnline\\Startup.cs",
+              "ToolTip": "C:\\Users\\tvh35\\OneDrive\\Desktop\\DATN\\da15\\Fashion-Website-ASP.Net-MVC-master\\WebBanHangOnline\\Startup.cs",
+              "RelativeToolTip": "WebBanHangOnline\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:01:20.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
